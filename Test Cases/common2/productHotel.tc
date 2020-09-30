@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>productHotel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6ee8752a-81f9-4663-9073-d95bb286359d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f253c2d4-b24d-4019-bfac-0b4005d8fae8</id>
+      <masked>false</masked>
+      <name>result</name>
+   </variable>
+</TestCaseEntity>

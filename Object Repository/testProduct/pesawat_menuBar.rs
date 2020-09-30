@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pesawat_menuBar</name>
+   <tag></tag>
+   <elementGuidId>dadf7792-52e4-46c0-909c-e3d99a290b02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='product-link']//a[contains(text(),'Pesawat')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='product-link']//a[contains(text(),'Pesawat')]</value>
+   </webElementProperties>
+</WebElementEntity>

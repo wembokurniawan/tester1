@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>flightTo_textField</name>
+   <tag></tag>
+   <elementGuidId>5aef9d86-c5f5-4b28-98f8-798398f3082f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formhome&quot;]/div/div/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formhome&quot;]/div/div/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/input</value>
+   </webElementProperties>
+</WebElementEntity>

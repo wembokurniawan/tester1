@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>hotel_menuBar_btn</name>
+   <tag></tag>
+   <elementGuidId>32cd1320-4e2c-4bae-9fea-b4071d3b5f12</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='product-link']//a[contains(text(),'Hotel')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='product-link']//a[contains(text(),'Hotel')]</value>
+   </webElementProperties>
+</WebElementEntity>

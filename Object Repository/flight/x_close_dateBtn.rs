@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>x_close_dateBtn</name>
+   <tag></tag>
+   <elementGuidId>aa9ad979-33cd-421f-b518-da448a2d21da</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;formhome&quot;]/div/div/div[1]/div[3]/div[4]/div[2]/div[2]/div/div/div[1]/div/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;formhome&quot;]/div/div/div[1]/div[3]/div[4]/div[2]/div[2]/div/div/div[1]/div/button/i</value>
+   </webElementProperties>
+</WebElementEntity>

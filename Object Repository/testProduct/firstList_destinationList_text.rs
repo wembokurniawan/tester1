@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>firstList_destinationList_text</name>
+   <tag></tag>
+   <elementGuidId>699213f4-fd1d-47e8-a80b-8a7ce3e1b032</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='autocomplete-list-container']//div[1]//div[1]//div[1]//div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='autocomplete-list-container']//div[1]//div[1]//div[1]//div[1]</value>
+   </webElementProperties>
+</WebElementEntity>
